@@ -37,6 +37,6 @@
 > ✨ *“Building UIs with love and logic.”*
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaiksalman123&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=shaiksalman123&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-![Visitors](https://komarev.com/ghpvc/?username=shaiksalman123&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman7713&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=salman7713&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![Visitors](https://komarev.com/ghpvc/?username=salman7713&style=flat-square)
